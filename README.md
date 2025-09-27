@@ -107,10 +107,4 @@ InsightHub-Dashboard/
 
 ---
 
-## 📄 License
-
-MIT License © 2025 – Altrin Titus
-
----
-
 > 💡 Built with ❤️ for the Novo Nordisk GBS Hackathon 2025
