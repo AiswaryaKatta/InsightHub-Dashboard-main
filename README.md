@@ -51,7 +51,7 @@ All charts are exportable and the data is dynamically updateable via CSV or back
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/altrin7311/InsightHub-Dashboard.git
+git clone https://github.com/AiswaryaKatta/InsightHub-Dashboard.git
 cd InsightHub-Dashboard/dashboard
 ```
 
